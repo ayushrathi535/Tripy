@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tripy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dev_name">"Ayush Rathi"</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="trip_location">Trip Location</string>
+    <string name="mandatory_field">Mandatory Field</string>
+    <string name="discard">DISCARD</string>
+    <string name="edit_trip">Edit Trip</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="photo">Photo</string>
+    <string name="add_item">+ ADD ITEM</string>
+
+
+</resources>
