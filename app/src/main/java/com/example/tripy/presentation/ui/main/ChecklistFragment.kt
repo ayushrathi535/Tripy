@@ -1,18 +1,12 @@
 package com.example.tripy.presentation.ui.main
 
-import android.content.Context
+
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.activity.OnBackPressedCallback
-import androidx.appcompat.app.ActionBar
-import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import androidx.navigation.fragment.findNavController
-import com.example.tripy.R
 import com.example.tripy.databinding.FragmentChecklistBinding
-import com.example.tripy.databinding.FragmentMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

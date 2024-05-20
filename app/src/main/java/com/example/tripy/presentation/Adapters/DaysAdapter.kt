@@ -9,7 +9,7 @@ import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.example.tripy.R
 import com.example.tripy.databinding.CalendarCardBinding
-import kotlin.time.Duration.Companion.days
+
 
 class DaysAdapter(
     val days: List<Int>,
